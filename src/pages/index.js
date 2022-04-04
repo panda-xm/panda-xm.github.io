@@ -19,7 +19,6 @@ function HomepageHeader() {
             to="/docs/intro">
             Docusaurus Tutorial - 5min ⏱️
           </Link>
-            <div>熊智虎</div>
         </div>
       </div>
     </header>
